@@ -38,7 +38,7 @@ def finalizar_programa():
     print('Finalizando app\n') 
 
 mensagem_escolha_uma_opcao = 'Escolha uma opção: '
-mensagem_opcao_invalida = 'Opção inválida. Digite outra opção: '
+mensagem_opcao_invalida = 'Opção inválida. Digite outra opção disponível: '
 
 def opcao_invalida(mensagem):
     escolher_opcao(mensagem)

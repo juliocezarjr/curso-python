@@ -8,4 +8,5 @@ match variavel:
     case 3:
         print('Deu certo')
 
+print('Estudando Python')
         
